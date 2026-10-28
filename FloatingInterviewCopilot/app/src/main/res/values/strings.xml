@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Floating Interview Copilot</string>
+    <string name="accessibility_description">Optional user-enabled accessibility helper for transferring a question into a visible AI app. It does not capture credentials or read answer content.</string>
+</resources>
